@@ -1,7 +1,6 @@
 
 .venv/
 .git/
-.github/
 .vscode/
 __pycache__/
 .pytest_cache/
